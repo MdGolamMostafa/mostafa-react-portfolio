@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/mostafa-react-portfolio/static/css/main.575ffeb1.chunk.css",
-    "main.js": "/mostafa-react-portfolio/static/js/main.91dc519f.chunk.js",
-    "main.js.map": "/mostafa-react-portfolio/static/js/main.91dc519f.chunk.js.map",
+    "main.css": "/mostafa-react-portfolio/static/css/main.2a04a479.chunk.css",
+    "main.js": "/mostafa-react-portfolio/static/js/main.e6f8941f.chunk.js",
+    "main.js.map": "/mostafa-react-portfolio/static/js/main.e6f8941f.chunk.js.map",
     "runtime-main.js": "/mostafa-react-portfolio/static/js/runtime-main.8e84697c.js",
     "runtime-main.js.map": "/mostafa-react-portfolio/static/js/runtime-main.8e84697c.js.map",
     "static/js/2.ba617ac4.chunk.js": "/mostafa-react-portfolio/static/js/2.ba617ac4.chunk.js",
     "static/js/2.ba617ac4.chunk.js.map": "/mostafa-react-portfolio/static/js/2.ba617ac4.chunk.js.map",
     "index.html": "/mostafa-react-portfolio/index.html",
-    "static/css/main.575ffeb1.chunk.css.map": "/mostafa-react-portfolio/static/css/main.575ffeb1.chunk.css.map",
+    "static/css/main.2a04a479.chunk.css.map": "/mostafa-react-portfolio/static/css/main.2a04a479.chunk.css.map",
     "static/js/2.ba617ac4.chunk.js.LICENSE.txt": "/mostafa-react-portfolio/static/js/2.ba617ac4.chunk.js.LICENSE.txt",
     "static/media/Contact.css": "/mostafa-react-portfolio/static/media/background.48c0b661.webp",
     "static/media/background.webp": "/mostafa-react-portfolio/static/media/background.f6814621.webp",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.8e84697c.js",
     "static/js/2.ba617ac4.chunk.js",
-    "static/css/main.575ffeb1.chunk.css",
-    "static/js/main.91dc519f.chunk.js"
+    "static/css/main.2a04a479.chunk.css",
+    "static/js/main.e6f8941f.chunk.js"
   ]
 }
