@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mostafa-react-portfolio/static/css/main.6c06174a.chunk.css",
-    "main.js": "/mostafa-react-portfolio/static/js/main.079ba01e.chunk.js",
-    "main.js.map": "/mostafa-react-portfolio/static/js/main.079ba01e.chunk.js.map",
+    "main.js": "/mostafa-react-portfolio/static/js/main.4c2931a4.chunk.js",
+    "main.js.map": "/mostafa-react-portfolio/static/js/main.4c2931a4.chunk.js.map",
     "runtime-main.js": "/mostafa-react-portfolio/static/js/runtime-main.8e84697c.js",
     "runtime-main.js.map": "/mostafa-react-portfolio/static/js/runtime-main.8e84697c.js.map",
     "static/css/2.ec02d681.chunk.css": "/mostafa-react-portfolio/static/css/2.ec02d681.chunk.css",
@@ -30,6 +30,6 @@
     "static/css/2.ec02d681.chunk.css",
     "static/js/2.13fc21b0.chunk.js",
     "static/css/main.6c06174a.chunk.css",
-    "static/js/main.079ba01e.chunk.js"
+    "static/js/main.4c2931a4.chunk.js"
   ]
 }
